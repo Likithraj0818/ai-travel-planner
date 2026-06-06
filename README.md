@@ -138,5 +138,5 @@ ai-travel-planner/
 
 **Nagula Likith Raj**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/likith-raj-b53794301/)
-- 📧 sravyakirthana@gmail.com
-- 🌐 [Portfolio](https://sravyakirthana.github.io)
+- 📧 nlikithraj9908@gmail.com
+
